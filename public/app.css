@@ -4,3 +4,49 @@
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+  width: 1200px;
+  font-family: sans-serif;
+}
+
+/**
+ * Main Box
+ */
+.main-box {
+  position: absolute;
+  border: 2px lightgrey solid;
+  border-radius: 3%;
+  margin: 10px 100px;
+  height: 600px;
+  width: 600px;
+}
+
+.main-box h1 {
+  color: #3bb61f;
+}
+
+h1 {
+  position: relative;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: 50px;
+  font-size: 2.3rem;
+}
+
+h2 {
+  float: right;
+  position: relative;
+  bottom: 20%;
+  left: 4.5%;
+  border: 1px lightgrey solid;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  line-height: 140px;
+  font-size: 80px;
+  text-align: center;
+  background: lightgrey;
+  color: white;
+}
