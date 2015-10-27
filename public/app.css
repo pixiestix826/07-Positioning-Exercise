@@ -55,14 +55,18 @@ h2 {
   margin-top: 80px;
 }
 
-li {
-  color: #319fc2;
+ li  {
+  color: lightgrey;
   font-size: 2rem;
-  margin-left: 80px;
-  margin-right: 200px;
+  margin-left: 48px;
   padding: 0.5rem;
-  text-decoration-color: lightgrey;
   list-style-type: square;
+}
+
+a {
+  color: #24aac2;
+  text-decoration: none;
+  border-bottom: 2.5px solid lightgrey;
 }
 
 .social .fa-twitter, .fa-facebook, .fa-google-plus {
@@ -75,5 +79,5 @@ li {
 }
 
 .social .fa-twitter {
-  margin-left: 6rem;
+  margin-left: 4rem;
 }
