@@ -1,0 +1,22 @@
+{
+  "name": "07-positioning-exercise",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Brandi Soucy <bbsoucy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/pixiestix826/07-Positioning-Exercise",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.3",
+    "font-awesome": "~4.4.0"
+  }
+}
