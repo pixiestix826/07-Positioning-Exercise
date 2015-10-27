@@ -1,0 +1,23 @@
+{
+  "name": "07-positioning-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixiestix826/07-Positioning-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixiestix826/07-Positioning-Exercise/issues"
+  },
+  "homepage": "https://github.com/pixiestix826/07-Positioning-Exercise#readme",
+  "devDependencies": {
+    "broccoli": "^0.16.8",
+    "broccoli-merge-trees": "^0.2.3"
+  }
+}
